@@ -6,9 +6,9 @@ import java.util.Arrays;
 public class ArrayListToArray {
     public static void main(String[] args) {
         ArrayList<String> arrayList = new ArrayList<>();
-        arrayList.add("Hello");
-        arrayList.add("World");
-        arrayList.add("!");
+        arrayList.add("Ram");
+        arrayList.add("Krishna");
+        arrayList.add("&&");
 
         // Convert ArrayList to Array
         String[] array = new String[arrayList.size()];
